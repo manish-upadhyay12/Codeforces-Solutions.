@@ -1,0 +1,20 @@
+<h2><a href="https://codeforces.com/contest/1840/problem/A" target="_blank" rel="noopener noreferrer">1840A — Cipher Shifer</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1840A](https://codeforces.com/contest/1840/problem/A) |
+
+## Topics
+`implementation` `strings` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Шифр шифер</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file input-standard"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file output-standard"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Есть строка $$$a$$$ (она вам неизвестна), состоящая из латинских строчных букв, зашифрованная по следующему правилу в строку $$$s$$$:</p><ul> <li> после каждого символа строки $$$a$$$ дописывается произвольное (возможно, нулевое) количество любых латинских строчных букв, отличных от самого символа; </li><li> после каждого такого дописывания ставится тот символ, который мы дополняли. </li></ul><p>Вам дана строка $$$s$$$, выведите изначальную строку $$$a$$$. Другими словами, вам нужно расшифровать строку $$$s$$$.</p><p>Обратите внимание, что каждая зашифрованная таким образом строка расшифровывается <span class="tex-font-style-bf">единственным</span> образом.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных содержится одно целое число $$$t$$$ ($$$1 \le t \le 1000$$$) — количество наборов входных данных в тесте.</p><p>Далее следуют описания наборов входных данных.</p><p>В первой строке набора содержится одно целое число $$$n$$$ ($$$2 \le n \le 100$$$) — длина зашифрованного сообщения.</p><p>Во второй строке входных данных содержится одна строка $$$s$$$ длины $$$n$$$ — зашифрованное сообщение, полученное из некоторой строки $$$a$$$.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Для каждого запроса выведите в отдельной строке строку $$$a$$$ — расшифрованное сообщение.</p></div><div class="sample-tests"><div class="section-title">Пример</div><div class="sample-test"><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id0016926411467627178" id="id006553857783871182" class="input-output-copier">Скопировать</div></div><pre id="id0016926411467627178"><div class="test-example-line test-example-line-even test-example-line-0">3</div><div class="test-example-line test-example-line-odd test-example-line-1">8</div><div class="test-example-line test-example-line-odd test-example-line-1">abacabac</div><div class="test-example-line test-example-line-even test-example-line-2">5</div><div class="test-example-line test-example-line-even test-example-line-2">qzxcq</div><div class="test-example-line test-example-line-odd test-example-line-3">20</div><div class="test-example-line test-example-line-odd test-example-line-3">ccooddeeffoorrcceess</div></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id007448177625643789" id="id002228468710333702" class="input-output-copier">Скопировать</div></div><pre id="id007448177625643789">ac
+q
+codeforces
+</pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом зашифрованном сообщении буква $$$a$$$ зашифрована в виде $$$aba$$$, и буква $$$c$$$ зашифрована в виде $$$cabac$$$.</p><p>Во втором зашифрованном сообщении всего одна буква $$$q$$$ зашифрована в виде $$$qzxcq$$$.</p><p>В третьем зашифрованном сообщении к каждой букве дописано нулевое количество символов. </p></div>
