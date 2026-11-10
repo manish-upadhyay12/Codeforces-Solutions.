@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/71/problem/A" target="_blank" rel="noopener noreferrer">71A — Way Too Long Words</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 71A](https://codeforces.com/contest/71/problem/A) |
+
+## Topics
+`strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Слишком длинные слова</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">ввод</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">вывод</div>stdout</div></div><div><p>Иногда некоторые слова вроде «<span class="tex-font-style-tt">localization</span>» или «<span class="tex-font-style-tt">internationalization</span>» настолько длинны, что их весьма утомительно писать много раз в каком либо тексте.</p><p>Будем считать слово <span class="tex-font-style-it">слишком длинным</span>, если его длина <span class="tex-font-style-bf">строго больше</span> <span class="tex-span">10</span> символов. Все слишком длинные слова можно заменить специальной аббревиатурой.</p><p>Эта аббревиатура строится следующим образом: записывается первая и последняя буква слова, а между ними — количество букв между первой и последней буквой (в десятичной системе счисления и без ведущих нулей).</p><p>Таком образом, «<span class="tex-font-style-tt">localization</span>» запишется как «<span class="tex-font-style-tt">l10n</span>», а «<span class="tex-font-style-tt">internationalization</span>» как «<span class="tex-font-style-tt">i18n</span>».</p><p>Вам предлагается автоматизировать процесс замены слов на аббревиатуры. При этом все слишком длинные слова должны быть заменены аббревиатурой, а слова, не являющиеся слишком длинными, должны остаться без изменений.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке содержится целое число <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 100</span>). В каждой из последующих <span class="tex-span"><i>n</i></span> строк содержится по одному слову. Все слова состоят из малых латинских букв и имеют длину от <span class="tex-span">1</span> до <span class="tex-span">100</span> символов.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите <span class="tex-span"><i>n</i></span> строк. В <span class="tex-span"><i>i</i></span> строке должен находиться результат замены <span class="tex-span"><i>i</i></span>-го слова из входных данных.</p></div><div class="sample-tests"><div class="section-title">Примеры</div><div class="sample-test"><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id004433099076007484" id="id005265593805501556" class="input-output-copier">Скопировать</div></div><pre id="id004433099076007484">4<br>word<br>localization<br>internationalization<br>pneumonoultramicroscopicsilicovolcanoconiosis<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id009927642731547273" id="id0024961201260077537" class="input-output-copier">Скопировать</div></div><pre id="id009927642731547273">word<br>l10n<br>i18n<br>p43s<br></pre></div></div></div>
