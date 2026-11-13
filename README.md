@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 7 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 - [two pointers](#two-pointers) (6)
 
 ---
@@ -53,6 +53,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
@@ -74,6 +75,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
