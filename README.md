@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 17 | 7 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (14)
 - [sortings](#sortings) (2)
-- [strings](#strings) (11)
+- [strings](#strings) (12)
 - [two pointers](#two-pointers) (6)
 
 ---
@@ -39,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
@@ -74,6 +75,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/41/A%20-%20Translation/solution.java) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/118/A%20-%20String%20Task/solution.java) |
