@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/58/problem/A" target="_blank" rel="noopener noreferrer">58A — Chat room</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 58A](https://codeforces.com/contest/58/problem/A) |
+
+## Topics
+`greedy` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Чат</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">ввод</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">вывод</div>stdout</div></div><div><p>Совсем недавно Вася научился печатать на клавиатуре и выходить в интернет. Он сразу же зашел в чат и решил поздороваться со всеми. Вася напечатал слово <span class="tex-span"><i>s</i></span>. Считается, что у Васи получилось поздороваться, если из напечатанного слова можно удалить некоторые буквы так, чтобы получилось слово "<span class="tex-font-style-tt">hello</span>". Например, если Вася напечатал слово "<span class="tex-font-style-tt">ahhellllloou</span>", считается, что он поздоровался, а если он напечатал "<span class="tex-font-style-tt">hlelo</span>", считается, что Васю не поняли, и ему не удалось поздороваться. По заданному слову <span class="tex-span"><i>s</i></span> определите, удалось ли Васе поздороваться.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой и единственной строке записано слово <span class="tex-span"><i>s</i></span>, которое напечатал Вася. Это слово состоит из маленьких букв латинского алфавита, его длина не меньше 1 и не больше 100 букв.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Если Васе удалось поздороваться, выведите "<span class="tex-font-style-tt">YES</span>", иначе выведите "<span class="tex-font-style-tt">NO</span>".</p></div><div class="sample-tests"><div class="section-title">Примеры</div><div class="sample-test"><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id0011940137469269685" id="id007847003219979183" class="input-output-copier">Скопировать</div></div><pre id="id0011940137469269685">ahhellllloou<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id007202384450036399" id="id0003689399471557875" class="input-output-copier">Скопировать</div></div><pre id="id007202384450036399">YES<br></pre></div><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id00237765607640677" id="id0042896608804935576" class="input-output-copier">Скопировать</div></div><pre id="id00237765607640677">hlelo<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id00693297502246822" id="id0012239310319744634" class="input-output-copier">Скопировать</div></div><pre id="id00693297502246822">NO<br></pre></div></div></div>
