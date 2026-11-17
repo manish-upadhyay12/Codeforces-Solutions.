@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/131/problem/A" target="_blank" rel="noopener noreferrer">131A — cAPS lOCK</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1000 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 131A](https://codeforces.com/contest/131/problem/A) |
+
+## Topics
+`implementation` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. cAPS lOCK</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>0.5 second</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">ввод</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">вывод</div>stdout</div></div><div><p>зАЧЕМ НУЖНА КЛАВИША cAPS lOCK?</p><p>Caps Lock — клавиша компьютерной клавиатуры, предназначенная для автоматической (постоянной) смены регистра букв со строчных на прописные. Будучи случайно нажатой, она приводит к последствиям вроде первого абзаца в условии этой задачи.</p><p>Будем считать, что слово набрано с ошибочно нажатой клавишей Caps Lock, если: </p><ul> <li> либо оно полностью состоит из прописных букв; </li><li> либо прописными являются все его буквы, кроме первой. </li></ul><p>В таком случае, нужно автоматически поменять регистр всех букв на противоположный. Например, регистр букв слов «<span class="tex-font-style-tt">hELLO</span>», «<span class="tex-font-style-tt">HTTP</span>», «<span class="tex-font-style-tt">z</span>» должен быть изменен.</p><p>Напишите программу, которая применяет описанное выше правило или оставляет слово без изменения, если оно не применимо.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано слово, состоящее из прописных или строчных букв латинского алфавита. Длина слова — от 1 до 100 символов включительно.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите результат обработки данного слова.</p></div><div class="sample-tests"><div class="section-title">Примеры</div><div class="sample-test"><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id000868613377610199" id="id005705411724190417" class="input-output-copier">Скопировать</div></div><pre id="id000868613377610199">cAPS<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id0027071974007263333" id="id00958846516963536" class="input-output-copier">Скопировать</div></div><pre id="id0027071974007263333">Caps</pre></div><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id0048113672284559594" id="id0009018464704386497" class="input-output-copier">Скопировать</div></div><pre id="id0048113672284559594">Lock<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id0022334789434584257" id="id0005191393281212486" class="input-output-copier">Скопировать</div></div><pre id="id0022334789434584257">Lock<br></pre></div></div></div>
