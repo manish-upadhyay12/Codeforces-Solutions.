@@ -18,12 +18,11 @@ public class Main {
             Arrays.sort(arr);
  
             for (int i = 0; i < arr.length - 1; i++) {
-                for (int j = i + 1; j < arr.length; j++) {
-                    int sum = Math.abs(arr[j] - arr[i]);
  
-                    if (sum < min) {
-                        min = sum;
-                    }
+                int sum = Math.abs(arr[i + 1] - arr[i]);
+ 
+                if (sum < min) {
+                    min = sum;
                 }
             }
  
