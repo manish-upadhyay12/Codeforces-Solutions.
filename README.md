@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 9 |
+| 29 | 9 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (5)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (18)
-- [math](#math) (3)
+- [implementation](#implementation) (19)
+- [math](#math) (4)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (6)
@@ -72,6 +72,7 @@
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
@@ -86,6 +87,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 
