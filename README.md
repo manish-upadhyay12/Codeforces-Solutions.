@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 9 |
+| 27 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (18)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (6)
@@ -34,6 +34,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/268/A%20-%20Games/solution.java) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/271/A%20-%20Beautiful%20Year/solution.java) |
@@ -84,6 +85,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 
 ### sortings
