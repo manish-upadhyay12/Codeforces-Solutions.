@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 9 |
+| 28 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (18)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (6)
@@ -86,6 +86,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/manish-upadhyay12/Codeforces-Solutions./blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 
 ### sortings
