@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/617/problem/A" target="_blank" rel="noopener noreferrer">617A — Elephant</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 617A](https://codeforces.com/contest/617/problem/A) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Слоник</div><div class="time-limit"><div class="property-title">ограничение по времени на тест</div>1 секунда</div><div class="memory-limit"><div class="property-title">ограничение по памяти на тест</div>256 мегабайт</div><div class="input-file input-standard"><div class="property-title">ввод</div>стандартный ввод</div><div class="output-file output-standard"><div class="property-title">вывод</div>стандартный вывод</div></div><div><p>Слоник решил сходить в гости к другу. Оказалось, что дом слоника находится в точке <span class="tex-span">0</span>, а дом его друга в точке <span class="tex-span"><i>x</i>(<i>x</i> > 0)</span> координатной прямой. За один шаг слоник может переместиться на <span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span> или <span class="tex-span">5</span> позиций вперёд. Помогите ему определить, за какое минимальное количество шагов он может добраться до дома друга.</p></div><div class="input-specification"><div class="section-title">Входные данные</div><p>В первой строке входных данных записано одно целое число <span class="tex-span"><i>x</i></span> (<span class="tex-span">1 ≤ <i>x</i> ≤ 1 000 000</span>) — координата дома друга слоника.</p></div><div class="output-specification"><div class="section-title">Выходные данные</div><p>Выведите минимальное количество шагов, которые необходимо сделать слонику, чтобы попасть из точки <span class="tex-span">0</span> в точку <span class="tex-span"><i>x</i></span>.</p></div><div class="sample-tests"><div class="section-title">Примеры</div><div class="sample-test"><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id00610706453732803" id="id006370240240925595" class="input-output-copier">Скопировать</div></div><pre id="id00610706453732803">5<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id0019088760187906317" id="id0034531675776034054" class="input-output-copier">Скопировать</div></div><pre id="id0019088760187906317">1<br></pre></div><div class="input"><div class="title">Входные данные<div title="Скопировать" data-clipboard-target="#id009517327443573828" id="id007807678403214893" class="input-output-copier">Скопировать</div></div><pre id="id009517327443573828">12<br></pre></div><div class="output"><div class="title">Выходные данные<div title="Скопировать" data-clipboard-target="#id0041603474398850626" id="id005179799341625461" class="input-output-copier">Скопировать</div></div><pre id="id0041603474398850626">3<br></pre></div></div></div><div class="note"><div class="section-title">Примечание</div><p>В первом примере слоник может за один шаг передвинуться на <span class="tex-span">5</span> позиций и достигнуть точки <span class="tex-span"><i>x</i></span>.</p><p>Во втором примере слоник может попасть в точку <span class="tex-span"><i>x</i></span>, сходив на 3, 5 и 4 позиции. Есть и другие способы получить оптимальный ответ, но слоник не может достичь <span class="tex-span"><i>x</i></span> быстрее, чем за <span class="tex-span">3</span> шага.</p></div>
